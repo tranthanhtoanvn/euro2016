@@ -1,0 +1,32 @@
+1;Melbourne Rectangular;Melbourne;09/01/2015-20:00;+11;a;AUS;KUW;4;1
+2;Canberra;Canberra;10/01/2015-16:00;+11;a;KOR;OMA;1;0
+3;Australia;Sydney;10/01/2015-18:00;+11;b;UZB;PRK;1;0
+4;Brisbane;Brisbane;10/01/2015-19:00;+10;b;KSA;CHN;0;1
+5;Melbourne Rectangular;Melbourne;11/01/2015-20:00;+11;c;IRN;BHR;2;0
+6;Canberra;Canberra;11/01/2015-18:00;+11;c;UAE;QAT;4;1
+7;Newcastle;Newcastle;12/01/2015-18:00;+11;d;JPN;PLE;4;0
+8;Brisbane;Brisbane;12/01/2015-19:00;+10;d;JOR;IRQ;0;1
+9;Canberra;Canberra;13/01/2015-18:00;+11;a;KUW;KOR;0;1
+10;Australia;Sydney;13/01/2015-20:00;+11;a;OMA;AUS;0;4
+11;Melbourne Rectangular;Melbourne;14/01/2015-18:00;+11;b;PRK;KSA;1;4
+12;Brisbane;Brisbane;14/01/2015-19:00;+10;b;CHN;UZB;2;1
+13;Canberra;Canberra;15/01/2015-18:00;+11;c;BHR;UAE;1;2
+14;Australia;Sydney;15/01/2015-20:00;+11;c;QAT;IRN;0;1
+15;Melbourne Rectangular;Melbourne;16/01/2015-18:00;+11;d;PLE;JOR;1;5
+16;Brisbane;Brisbane;16/01/2015-19:00;+10;d;IRQ;JPN;0;1
+17;Brisbane;Brisbane;17/01/2015-19:00;+10;a;AUS;KOR;0;1
+18;Newcastle;Newcastle;17/01/2015-20:00;+11;a;OMA;KUW;1;0
+19;Melbourne Rectangular;Melbourne;18/01/2015-20:00;+11;b;UZB;KSA;3;1
+20;Canberra;Canberra;18/01/2015-20:00;+11;b;CHN;PRK;2;1
+21;Brisbane;Brisbane;19/01/2015-19:00;+10;c;IRN;UAE;1;0
+22;Australia;Sydney;19/01/2015-20:00;+11;c;QAT;BHR;1;2
+23;Melbourne Rectangular;Melbourne;20/01/2015-20:00;+11;d;JPN;JOR;2;0
+24;Canberra;Canberra;20/01/2015-20:00;+11;d;IRQ;PLE;2;0
+25;Melbourne Rectangular;Melbourne;22/01/2015-18:30;+11;qf;KOR;UZB;2;0
+26;Brisbane;Brisbane;22/01/2015-20:30;+10;qf;CHN;AUS;0;2
+27;Canberra;Canberra;23/01/2015-17:30;+11;qf;IRN;IRQ;3(6);3(7)
+28;Australia;Sydney;23/01/2015-20:30;+11;qf;JPN;UAE;?;?
+29;Australia;Sydney;26/01/2015-20:00;+11;sf;KOR;IRQ;?;?
+30;Newcastle;Newcastle;27/01/2015-20:00;+11;sf;AUS;[W28];?;?
+31;Newcastle;Newcastle;30/01/2015-20:00;+11;3rd;[L29];[L30];?;?
+32;Australia;Sydney;31/01/2015-20:00;+11;fn;[W29];[W30];?;?
