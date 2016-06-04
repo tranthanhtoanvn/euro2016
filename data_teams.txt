@@ -1,16 +1,24 @@
-AUS;AUSTRALIA;a;3;2;0;1;8;2;6
-KOR;SOUTH KOREA;a;3;3;0;0;3;0;9
-OMA;OMAN;a;3;1;0;2;1;5;3
-KUW;KUWAIT;a;3;0;0;3;1;6;0
-UZB;UZBEKISTAN;b;3;2;0;1;5;3;6
-KSA;SAUDI ARABIA;b;3;1;0;2;5;5;3
-CHN;CHINA PR;b;3;3;0;0;5;2;9
-PRK;NORTH KOREA;b;3;0;0;3;2;7;0
-IRN;IRAN;c;3;3;0;0;4;0;9
-UAE;UNITED ARAB EMIRATES;c;3;2;0;1;6;3;6
-QAT;QATAR;c;3;0;0;3;2;7;0
-BHR;BAHRAIN;c;3;1;0;2;3;5;3
-JPN;JAPAN;d;3;3;0;0;7;0;9
-JOR;JORDAN;d;3;1;0;2;5;4;3
-IRQ;IRAQ;d;3;2;0;1;3;1;6
-PLE;PALESTINE;d;3;0;0;3;1;11;0
+ALB;Albania;a;0;0;0;0;0;0;0
+FRA;France;a;0;0;0;0;0;0;0
+ROU;Romania;a;0;0;0;0;0;0;0
+SWL;Switzerland;a;0;0;0;0;0;0;0
+ENG;England;b;0;0;0;0;0;0;0
+RUS;Russia;b;0;0;0;0;0;0;0
+SVK;Slovakia;b;0;0;0;0;0;0;0
+WAL;Wales;b;0;0;0;0;0;0;0
+GER;Germany;c;0;0;0;0;0;0;0
+NIR;Northern Ireland;c;0;0;0;0;0;0;0
+POL;Poland;c;0;0;0;0;0;0;0
+UKR;Ukraine;c;0;0;0;0;0;0;0
+CRO;Croatia;d;0;0;0;0;0;0;0
+CZE;Czech Republic;d;0;0;0;0;0;0;0
+ESP;Spain;d;0;0;0;0;0;0;0
+TUR;Turkey;d;0;0;0;0;0;0;0
+BEL;Belgium;e;0;0;0;0;0;0;0
+ITA;Italy;e;0;0;0;0;0;0;0
+RIR;Republic of Ireland;e;0;0;0;0;0;0;0
+SWE;Sweden;e;0;0;0;0;0;0;0
+AUT;Austria;f;0;0;0;0;0;0;0
+HUN;Hungary;f;0;0;0;0;0;0;0
+ISL;Iceland;f;0;0;0;0;0;0;0
+PRT;Portugal;f;0;0;0;0;0;0;0
