@@ -1,51 +1,51 @@
-1;Stade de France;Saint-Denis;10/06/2016-21:00;-1;a;FRA;ROU;?;?
-2;Stade Bollaert-Delelis;Lens Agglo;11/06/2016-15:00;-1;a;ALB;SWL;?;?
-3;Stade de Bordeaux;Bordeaux;11/06/2016-18:00;-1;b;WAL;SVK;?;?
-4;Stade Vélodrome;Marseille;11/06/2016-21:00;-1;b;ENG;RUS;?;?
-5;Parc des Princes;Paris;12/06/2016-15:00;-1;d;TUR;CRO;?;?
-6;Stade de Nice;Nice;12/06/2016-18:00;-1;c;POL;NIR;?;?
-7;Stade Pierre Mauroy;Lille Métropole;12/06/2016-21:00;-1;c;GER;UKR;?;?
-8;Stadium de Toulouse;Toulouse;13/06/2016-15:00;-1;d;ESP;CZE;?;?
-9;Stade de France;Saint-Denis;13/06/2016-18:00;-1;e;RIR;SWE;?;?
-10;Stade de Lyon;Lyon;13/06/2016-21:00;-1;e;BEL;ITA;?;?
-11;Stade de Bordeaux;Bordeaux;14/06/2016-18:00;-1;f;AUT;HUN;?;?
-12;Stade Geoffroy Guichard;Saint-Etienne;14/06/2016-21:00;-1;f;PRT;ISL;?;?
-13;Stade Pierre Mauroy;Lille Métropole;15/06/2016-15:00;-1;b;RUS;SVK;?;?
-14;Parc des Princes;Paris;15/06/2016-18:00;-1;a;ROU;SWL;?;?
-15;Stade Vélodrome;Marseille;15/06/2016-21:00;-1;a;FRA;ALB;?;?
-16;Stade Bollaert-Delelis;Lens Agglo;16/06/2016-15:00;-1;b;ENG;WAL;?;?
-17;Stade de Lyon;Lyon;16/06/2016-18:00;-1;c;UKR;NIR;?;?
-18;Stade de France;Saint-Denis;16/06/2016-21:00;-1;c;GER;POL;?;?
-19;Stadium de Toulouse;Toulouse;17/06/2016-15:00;-1;e;ITA;SWE;?;?
-20;Stade Geoffroy Guichard;Saint-Etienne;17/06/2016-18:00;-1;d;CZE;CRO;?;?
-21;Stade de Nice;Nice;17/06/2016-21:00;-1;d;ESP;TUR;?;?
-22;Stade de Bordeaux;Bordeaux;18/06/2016-15:00;-1;e;BEL;RIR;?;?
-23;Stade Vélodrome;Marseille;18/06/2016-18:00;-1;f;ISL;HUN;?;?
-24;Parc des Princes;Paris;18/06/2016-21:00;-1;f;PRT;AUT;?;?
-25;Stade de Lyon;Lyon;19/06/2016-21:00;-1;a;ROU;ALB;?;?
-26;Stade Pierre Mauroy;Lille Métropole;19/06/2016-21:00;-1;a;SWL;FRA;?;?
-27;Stadium de Toulouse;Toulouse;20/06/2016-21:00;-1;b;RUS;WAL;?;?
-28;Stade Geoffroy Guichard;Saint-Etienne;20/06/2016-21:00;-1;b;SVK;ENG;?;?
-29;Stade Vélodrome;Marseille;21/06/2016-18:00;-1;c;UKR;POL;?;?
-30;Parc des Princes;Paris;21/06/2016-18:00;-1;c;NIR;GER;?;?
-31;Stade de Bordeaux;Bordeaux;21/06/2016-21:00;-1;d;CRO;ESP;?;?
-32;Stade Bollaert-Delelis;Lens Agglo;21/06/2016-21:00;-1;d;CZE;TUR;?;?
-33;Stade de Lyon;Lyon;22/06/2016-18:00;-1;f;HUN;PRT;?;?
-34;Stade de France;Saint-Denis;22/06/2016-18:00;-1;f;ISL;AUT;?;?
-35;Stade Pierre Mauroy;Lille Métropole;22/06/2016-21:00;-1;e;ITA;RIR;?;?
-36;Stade de Nice;Nice;22/06/2016-21:00;-1;e;SWE;BEL;?;?
-37;Stade Geoffroy Guichard;Saint-Etienne;25/06/2016-15:00;-1;r16;[2A];[2C];?;?
-38;Parc des Princes;Paris;25/06/2016-18:00;-1;r16;[1B];[3ACD];?;?
-39;Stade Bollaert-Delelis;Lens Agglo;25/06/2016-21:00;-1;r16;[1D];[3BEF];?;?
-40;Stade de Lyon;Lyon;26/06/2016-15:00;-1;r16;[1A];[3CDE];?;?
-41;Stade Pierre Mauroy;Lille Métropole;26/06/2016-18:00;-1;r16;[1C];[3ABF];?;?
-42;Stadium de Toulouse;Toulouse;26/06/2016-21:00;-1;r16;[1F];[2E];?;?
-43;Stade de France;Saint-Denis;27/06/2016-18:00;-1;r16;[1E];[2D];?;?
-44;Stade de Nice;Nice;27/06/2016-21:00;-1;r16;[2B];[2F];?;?
-45;Stade Vélodrome;Marseille;30/06/2016-21:00;-1;qf;[W37];[W39];?;?
-46;Stade Pierre Mauroy;Lille Métropole;01/07/2016-21:00;-1;qf;[W38];[W42];?;?
-47;Stade de Bordeaux;Bordeaux;02/07/2016-21:00;-1;qf;[W41];[W43];?;?
-48;Stade de France;Saint-Denis;03/07/2016-21:00;-1;qf;[W40];[W44];?;?
-49;Stade de Lyon;Lyon;06/07/2016-21:00;-1;sf;[W45];[W46];?;?
-50;Stade Vélodrome;Marseille;07/07/2016-21:00;-1;sf;[W47];[W48];?;?
-51;Stade de France;Saint-Denis;10/07/2016-21:00;-1;fn;[W49];[W50];?;?
+1;Stade de France;Saint-Denis;10/06/2016-21:00;+2;a;FRA;ROU;?;?
+2;Stade Bollaert-Delelis;Lens Agglo;11/06/2016-15:00;+2;a;ALB;SWL;?;?
+3;Stade de Bordeaux;Bordeaux;11/06/2016-18:00;+2;b;WAL;SVK;?;?
+4;Stade Vélodrome;Marseille;11/06/2016-21:00;+2;b;ENG;RUS;?;?
+5;Parc des Princes;Paris;12/06/2016-15:00;+2;d;TUR;CRO;?;?
+6;Stade de Nice;Nice;12/06/2016-18:00;+2;c;POL;NIR;?;?
+7;Stade Pierre Mauroy;Lille Métropole;12/06/2016-21:00;+2;c;GER;UKR;?;?
+8;Stadium de Toulouse;Toulouse;13/06/2016-15:00;+2;d;ESP;CZE;?;?
+9;Stade de France;Saint-Denis;13/06/2016-18:00;+2;e;RIR;SWE;?;?
+10;Stade de Lyon;Lyon;13/06/2016-21:00;+2;e;BEL;ITA;?;?
+11;Stade de Bordeaux;Bordeaux;14/06/2016-18:00;+2;f;AUT;HUN;?;?
+12;Stade Geoffroy Guichard;Saint-Etienne;14/06/2016-21:00;+2;f;PRT;ISL;?;?
+13;Stade Pierre Mauroy;Lille Métropole;15/06/2016-15:00;+2;b;RUS;SVK;?;?
+14;Parc des Princes;Paris;15/06/2016-18:00;+2;a;ROU;SWL;?;?
+15;Stade Vélodrome;Marseille;15/06/2016-21:00;+2;a;FRA;ALB;?;?
+16;Stade Bollaert-Delelis;Lens Agglo;16/06/2016-15:00;+2;b;ENG;WAL;?;?
+17;Stade de Lyon;Lyon;16/06/2016-18:00;+2;c;UKR;NIR;?;?
+18;Stade de France;Saint-Denis;16/06/2016-21:00;+2;c;GER;POL;?;?
+19;Stadium de Toulouse;Toulouse;17/06/2016-15:00;+2;e;ITA;SWE;?;?
+20;Stade Geoffroy Guichard;Saint-Etienne;17/06/2016-18:00;+2;d;CZE;CRO;?;?
+21;Stade de Nice;Nice;17/06/2016-21:00;+2;d;ESP;TUR;?;?
+22;Stade de Bordeaux;Bordeaux;18/06/2016-15:00;+2;e;BEL;RIR;?;?
+23;Stade Vélodrome;Marseille;18/06/2016-18:00;+2;f;ISL;HUN;?;?
+24;Parc des Princes;Paris;18/06/2016-21:00;+2;f;PRT;AUT;?;?
+25;Stade de Lyon;Lyon;19/06/2016-21:00;+2;a;ROU;ALB;?;?
+26;Stade Pierre Mauroy;Lille Métropole;19/06/2016-21:00;+2;a;SWL;FRA;?;?
+27;Stadium de Toulouse;Toulouse;20/06/2016-21:00;+2;b;RUS;WAL;?;?
+28;Stade Geoffroy Guichard;Saint-Etienne;20/06/2016-21:00;+2;b;SVK;ENG;?;?
+29;Stade Vélodrome;Marseille;21/06/2016-18:00;+2;c;UKR;POL;?;?
+30;Parc des Princes;Paris;21/06/2016-18:00;+2;c;NIR;GER;?;?
+31;Stade de Bordeaux;Bordeaux;21/06/2016-21:00;+2;d;CRO;ESP;?;?
+32;Stade Bollaert-Delelis;Lens Agglo;21/06/2016-21:00;+2;d;CZE;TUR;?;?
+33;Stade de Lyon;Lyon;22/06/2016-18:00;+2;f;HUN;PRT;?;?
+34;Stade de France;Saint-Denis;22/06/2016-18:00;+2;f;ISL;AUT;?;?
+35;Stade Pierre Mauroy;Lille Métropole;22/06/2016-21:00;+2;e;ITA;RIR;?;?
+36;Stade de Nice;Nice;22/06/2016-21:00;+2;e;SWE;BEL;?;?
+37;Stade Geoffroy Guichard;Saint-Etienne;25/06/2016-15:00;+2;r16;[2A];[2C];?;?
+38;Parc des Princes;Paris;25/06/2016-18:00;+2;r16;[1B];[3ACD];?;?
+39;Stade Bollaert-Delelis;Lens Agglo;25/06/2016-21:00;+2;r16;[1D];[3BEF];?;?
+40;Stade de Lyon;Lyon;26/06/2016-15:00;+2;r16;[1A];[3CDE];?;?
+41;Stade Pierre Mauroy;Lille Métropole;26/06/2016-18:00;+2;r16;[1C];[3ABF];?;?
+42;Stadium de Toulouse;Toulouse;26/06/2016-21:00;+2;r16;[1F];[2E];?;?
+43;Stade de France;Saint-Denis;27/06/2016-18:00;+2;r16;[1E];[2D];?;?
+44;Stade de Nice;Nice;27/06/2016-21:00;+2;r16;[2B];[2F];?;?
+45;Stade Vélodrome;Marseille;30/06/2016-21:00;+2;qf;[W37];[W39];?;?
+46;Stade Pierre Mauroy;Lille Métropole;01/07/2016-21:00;+2;qf;[W38];[W42];?;?
+47;Stade de Bordeaux;Bordeaux;02/07/2016-21:00;+2;qf;[W41];[W43];?;?
+48;Stade de France;Saint-Denis;03/07/2016-21:00;+2;qf;[W40];[W44];?;?
+49;Stade de Lyon;Lyon;06/07/2016-21:00;+2;sf;[W45];[W46];?;?
+50;Stade Vélodrome;Marseille;07/07/2016-21:00;+2;sf;[W47];[W48];?;?
+51;Stade de France;Saint-Denis;10/07/2016-21:00;+2;fn;[W49];[W50];?;?
