@@ -1,4 +1,4 @@
-1;Stade de France;Saint-Denis;10/06/2016-21:00;+2;a;FRA;ROU;?;?
+1;Stade de France;Saint-Denis;10/06/2016-21:00;+2;a;FRA;ROU;1;0
 2;Stade Bollaert-Delelis;Lens Agglo;11/06/2016-15:00;+2;a;ALB;SWL;?;?
 3;Stade de Bordeaux;Bordeaux;11/06/2016-18:00;+2;b;WAL;SVK;?;?
 4;Stade Vélodrome;Marseille;11/06/2016-21:00;+2;b;ENG;RUS;?;?
